@@ -1,0 +1,12 @@
+git init }
+git cofig--global user name "oscar"
+git confg--global user.email "osfagarzonza92@inemennedy.edu.co"
+git config user .name
+gin config user email
+clear
+git statusgit
+git add .
+git commit -m "listo para subir"
+git push -u origin master 
+git remote add origin https://github.com/osfagarzonza92-create/mi-primer-repositorio.git
+git clone
